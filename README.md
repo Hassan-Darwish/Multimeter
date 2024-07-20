@@ -9,12 +9,13 @@ This project is a simple Arduino-based multimeter capable of measuring voltage, 
 - Voltage Divider (Resistors: 15kΩ and 1.5kΩ)
 - LED
 - Breadboard and jumper wires
+
 - Power source (e.g., 9V battery)
 - Battery recharging circuit
 
 ## Circuit Diagram
 
-![Circuit Diagram](image.png)
+![image3](https://github.com/user-attachments/assets/3d61a183-8789-4078-a38a-a23dba1a1f39)
 
 ## Code
 
